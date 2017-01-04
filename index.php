@@ -5,4 +5,4 @@ include("./functions/functionContent.php");
 include("./common/header.php");
 include("./common/main.php");
 include("./common/footer.php");
-//;l;25
+//;l;25jhygj
